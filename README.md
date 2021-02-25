@@ -1,2 +1,2 @@
-# Netflix-clone
+# Netflix
 Clone Basic functionalities of Netflix.
